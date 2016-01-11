@@ -33,90 +33,99 @@ University - Institute of Technology (Okmulgee, Oklahoma)
 Experience
 ----------
 
-**Sr. Cloud Consultant - Avnet (Phoenix, AZ - Remote)**
+06/2015-Present
+:   **Sr. Cloud Consultant**
+:   *Avnet (Phoenix, AZ - Remote)*
 
-June 2015-Present
+    Assist clients in implementing Cloud and Datacenter automation solutions.
+    Including standing up new environments, transforming existing environments
+    and crafting automation solutions to handle various items and problems.
 
-Assist clients in implementing Cloud and Datacenter automation solutions.
-Including standing up new environments, transforming existing environments and
-crafting automation solutions to handle various items and problems.
+01/2012-06/2015
+:   **Automation Developer**
+:   *Hewlett-Packard (Tulsa, OK)*
 
+    Engineer and Develop processes & procedures, HP Operations Orchestration
+    Workflows, HP Server Automation scripts, websites (typically LAMP-based),
+    and any other automation or process streamlining initiative. Also assist in
+    maintaining and supporting those items and initiatives.
 
-**Automation Developer - Hewlett-Packard (Tulsa, OK)**
+10/2008-01/2012
+:   **Technical Lead**
+:   *Hewlett-Packard (Tulsa, OK)*
 
-January 2012-June 2015
+    Responsible for working with customers to ensure that monitoring and
+    documentation are correct and up to standards.  Main point-of-contact for
+    all midrange technical issue relating to servers within my assigned
+    applications.
 
-Engineer and Develop processes & procedures, HP Operations Orchestration
-Workflows, HP Server Automation scripts, websites (typically LAMP-based), and
-any other automation or process streamlining initiative. Also assist in
-maintaining and supporting those items and initiatives.
+07/2006-01/2009
+:   **Jr. System Administrator**
+:   *Hewlett-Packard / EDS (Tulsa, OK)*
 
-**Technical Lead - Hewlett-Packard (Tulsa, OK)**
+    Responsible for the troubleshooting and escalation of application, OS, and
+    hardware issues on mid-range level servers. Worked with documentation to
+    determine severity level, troubleshoot and repair impacts and outages on
+    servers with 24/7 availability, and escalate issues to the proper groups or
+    personnel when necessary.
 
-October 2008-January 2012
+10/2005-07/2006
+:   **PC Support Specialist**
+:   *Oral Roberts University (Tulsa, OK)*
 
-Responsible for working with customers to ensure that monitoring and
-documentation are correct and up to standards.  Main point-of-contact for all
-midrange technical issue relating to servers within my assigned applications.
+    PC and Mac support technician responsible for the setup, troubleshooting,
+    repair, maintenance, inventory, and assignment/reassignment of computer
+    hardware, networking, peripheral devices, and software.
 
-**Jr. System Administrator - Hewlett-Packard / EDS (Tulsa, OK)**
+08/2002-08/2005
+:   **PC Support Technician (Work-study)**
+:   *Oklahoma State University - Institute of Technology (Okmulgee, OK)*
 
-July 2006-January 2009
-
-Responsible for the troubleshooting and escalation of application, OS, and
-hardware issues on mid-range level servers. Worked with documentation to
-determine severity level, troubleshoot and repair impacts and outages on servers
-with 24/7 availability, and escalate issues to the proper groups or personnel
-when necessary.
-
-**PC Support Specialist - Oral Roberts University (Tulsa, OK)**
-
-September 2005-July 2006
-
-PC and Mac support technician responsible for the setup, troubleshooting,
-repair, maintenance, inventory, and assignment/reassignment of computer
-hardware, networking, peripheral devices, and software.
-
-**PC Support Technician (Work-study) - Oklahoma State University - Institute of
-Technology (Okmulgee, OK)**
-
-August 2002-August 2005
-
-Work-study support technician responsible for the troubleshooting, repair,
-maintenance, inventory, and assignment/reassignment of computer hardware,
-networking, peripheral devices, and software.  Also installed and repaired
-cabling (primarily Cat5).
+    Work-study support technician responsible for the troubleshooting, repair,
+    maintenance, inventory, and assignment/reassignment of computer hardware,
+    networking, peripheral devices, and software.  Also installed and repaired
+    cabling (primarily Cat5).
 
 Technical Experience
 --------------------
 
-Release Automation Framework
-:   Release Automation Framework (RAF) started as a way to automate server OS
-patching in the Sabre environment using HP Operations Orchestration (HPOO) and
-HP Server Automation (HPSA) and grew to become a generic framework for any major
-release including its original intent (OS patches), database patches, server
-reboots, software installation and upgrades, or anything else where a server
-needs to be fully removed from service before performing an action.
+Projects
+:   **Release Automation Framework**
+:   *February 2014-June 2015*
 
-vSphere Automation
-:   Integrated vShpere into our home-grown Server Provisioning tool to allow for
-automated creation of virtual machines as well as some VM management including
-checking the status of VMs and powering them up to begin the build process.
+    Release Automation Framework (RAF) started as a way to automate server OS
+    patching in the Sabre environment using HP Operations Orchestration (HPOO)
+    and HP Server Automation (HPSA) and grew to become a generic framework for
+    any major release including its original intent (OS patches), database
+    patches, server reboots, software installation and upgrades, or anything
+    else where a server needs to be fully removed from service before performing
+    an action.
 
-IP Provisioning Automation
-:   Integrated vShpere into our home-grown Server Provisioning tool to allow for
-automated creation of virtual machines as well as some VM management including
-checking the status of VMs and powering them up to begin the build process.
+:   **vSphere Automation**
+:   *February 2015-March 2015*
+
+    Integrated vShpere into our home-grown Server Provisioning tool to allow for
+    automated creation of virtual machines as well as some VM management
+    including checking the status of VMs and powering them up to begin the build
+    process.
+
+:   **IP Provisioning Automation**
+:   *April 2015*
+
+    Integrated vShpere into our home-grown Server Provisioning tool to allow for
+    automated creation of virtual machines as well as some VM management
+    including checking the status of VMs and powering them up to begin the build
+    process.
 
 Tools and Languages
-:   **HP Operations Orchestration:** I Have spent 8 years authoring automation
+:   **HP Operations Orchestration:** Spent 8 years authoring automation
 solutions using HPOO from version 7.51 to 10.51 (current).  I've also done
 training on best practices for authoring, maintaining, and running HPOO Flows.
 
-:   **PHP:** I have written several back-end projects in PHP (namely, all
-  three "Projects" listed above). 
+:   **PHP:** Written several back-end projects in PHP (namely, all three
+  "Projects" listed above).
 
-:   Additional Working Knowledge of **Docker**, **Openstack**, **VMWare Suite**,
+:   I have also worked with **Docker**, **Openstack**, **VMWare Suite**,
 **HP Server Automation**, **HP Cloud Service Automation**,
 **HTML/CSS/Javascript**
 
