@@ -1,7 +1,1 @@
-*.tuc
-*.log
-*.pdf
-*.swo
-*.swp
-*.docx
-*.rtf
+node_modules
