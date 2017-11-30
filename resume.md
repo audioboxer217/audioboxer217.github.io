@@ -3,10 +3,10 @@ K. Scott Eppler
 
 ----
 
->Cloud Consultant and Automation Developer comfortable working with and
->learning new technologies and languages. I currently work in PHP and MySQL, HP
->Operations Orchestration, HP Server Automation, and the vRealize Suite most
->days.
+>Cloud Engineer and Automation Developer comfortable working with and
+>learning new technologies and languages. I currently work with Docker,
+>Kubernetes, Amazon Web Services,  Terraform, Operations Orchestration (and CloudSlang), 
+>Server Automation, and the vRealize Suite most days.
 
 >Specialties: Working with Clients to resolve issues and implement new
 >automation solutions.
@@ -20,20 +20,25 @@ Education
 :   **BT, Information Assurance and Digital Forensics**; Oklahoma State
 University - Institute of Technology (Okmulgee, Oklahoma)
 
-    *Societies: Phi Theta Kappa, Association of Information Technology
-    Professionals*
+    Societies: Phi Theta Kappa, Association of Information Technology
+    Professionals
 
 2002-2005
 :   **AAS, Information Technology and Computer Networks**; Oklahoma State
 University - Institute of Technology (Okmulgee, Oklahoma)
 
-    *Societies: Phi Theta Kappa, Association of Information Technology
-    Professionals*
+    Societies: Phi Theta Kappa, Association of Information Technology
+    Professionals
 
 Experience
 ----------
+08/2016-Present
+:   **Cloud Engineer**
+:   *Coda Global (US - Remote)*
 
-06/2015-Present
+    Assist clients with their move to a Cloud-based, DevOps style approach for their applications.  This includes infstructure work as well as CI/CD Pipeline development and getting started with container technology.
+
+06/2015-07-2016
 :   **Sr. Cloud Consultant**
 :   *Avnet (Phoenix, AZ - Remote)*
 
@@ -118,14 +123,16 @@ Projects
     process.
 
 Tools and Languages
-:   **HP Operations Orchestration:** Spent 8 years authoring automation
-solutions using HPOO from version 7.51 to 10.51 (current).  I've also done
+:   **HP Operations Orchestration:** Spent 9 years authoring automation
+solutions using HPOO from version 7.51 to 10.70 (current).  I've also done
 training on best practices for authoring, maintaining, and running HPOO Flows.
 
 :   **PHP:** Written several back-end projects in PHP (namely, all three
   "Projects" listed above).
 
-:   I have also worked with **Docker**, **Openstack**, **VMWare Suite**,
+:   **Docker:** Helped multiple clients get started with applications in Docker-based solutions
+
+:   I have also worked with **Kubernetes**, **Openstack**, **VMWare Suite**,
 **HP Server Automation**, **HP Cloud Service Automation**,
 **HTML/CSS/Javascript**
 
@@ -143,4 +150,4 @@ Certifications
 ----
 
 > <k.scott.eppler@gmail.com> • +1 (918) 994 2377\
-> 8993 S 257th East Place - Broken Arrow, OK 74014
+> 15300 E 90th ST N, Owasso, OK 74055
