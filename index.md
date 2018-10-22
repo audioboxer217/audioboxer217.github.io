@@ -76,7 +76,7 @@ __Ansible__ Tackled large infrastructure configuration projects utilizing Ansibl
 
 __Docker__ Helped multiple clients get started with applications in Docker-based solutions
 
-I have also worked with __Kubernetes__, __Amazon Web Services__, __VMWare Suite__, __HP Server Automation__, __HP Cloud Service Automation__,
+I have also worked with __Python__, __Kubernetes__, __Amazon Web Services__, __VMWare Suite__, __HP Server Automation__, __HP Cloud Service Automation__,
 __HTML/CSS/Javascript/PHP__
 
 
