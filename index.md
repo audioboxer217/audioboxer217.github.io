@@ -88,6 +88,8 @@ __Associate Computing Professional (ACP) in Networks and Microcomputing__
 
 __AWS Certified Solutions Architect - Associate__
 
+__AWS Certified Developer - Associate__
+
 __HP ATP - Operations Orchestration v10__
 
 __VMWare VTSP 2015__
