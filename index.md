@@ -6,16 +6,15 @@ title: Scott Eppler's CV
 Cloud Engineer, Automation Developer
 
 <div id="webaddress">
-<a href="mailto:k.scott.eppler@gmail.com">k.scott.eppler@gmail.com</a>|
-<a href="tel:9189942377">918.994.2377</a>
+<a href="mailto:k.scott.eppler@gmail.com">k.scott.eppler@gmail.com</a> |
+<a href="tel:9189942377">918.994.2377</a> |
+<a href="https://github.com/audioboxer217" target="_blank">GitHub</a> (<a href="https://hacknical.com/audioboxer217/github?locale=en" target="_blank">stats</a>)
 </div>
 
 
 ## Currently
 
-Assisting clients with Docker, Kubernetes, Amazon Web Services,  Terraform, Ansible, Operations Orchestration (and CloudSlang), 
-and Server Automation.
-
+Assisting clients with Docker, Kubernetes, Amazon Web Services,  Terraform, Ansible, Operations Orchestration (and CloudSlang), and Server Automation.
 
 ## Education
 
