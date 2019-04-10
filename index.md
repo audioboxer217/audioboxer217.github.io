@@ -5,12 +5,15 @@ title: Scott Eppler's CV
 # K. Scott Eppler
 Cloud Engineer, Automation Developer
 
+[![](img/aws_saa.png){:height="100" width="100"}](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-11-01&ci=AWS00254133)
+[![](img/aws_da.png){:height="100" width="100"}](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-11-14&ci=AWS00254133)
+[![](img/cka.png){:height="100" width="100"}](cka_cert.pdf)
+
 <div id="webaddress">
 <a href="mailto:k.scott.eppler@gmail.com">k.scott.eppler@gmail.com</a> |
 <a href="tel:9189942377">918.994.2377</a> |
 <a href="https://github.com/audioboxer217" target="_blank">GitHub</a> (<a href="https://hacknical.com/audioboxer217/github?locale=en" target="_blank">stats</a>)
 </div>
-
 
 ## Currently
 
@@ -79,15 +82,19 @@ I have also worked with __Python__, __Kubernetes__, __Amazon Web Services__, __V
 __HTML/CSS/Javascript/PHP__
 
 
-## Certifications
-
-__A+__
-
-__Associate Computing Professional (ACP) in Networks and Microcomputing__
+## Current Certifications
 
 __AWS Certified Solutions Architect - Associate__
 
 __AWS Certified Developer - Associate__
+
+__CNCF Certified Kubernetes Administrator__
+
+## Past Certifications
+
+__A+__
+
+__Associate Computing Professional (ACP) in Networks and Microcomputing__
 
 __HP ATP - Operations Orchestration v10__
 
@@ -95,6 +102,6 @@ __VMWare VTSP 2015__
 
 <!-- ### Footer
 
-Last updated: Nov 2018 -->
+Last updated: Apr 2019 -->
 
 
