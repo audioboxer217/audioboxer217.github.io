@@ -5,6 +5,7 @@ title: Scott Eppler's CV
 # K. Scott Eppler
 Cloud Engineer, Automation Developer
 
+[![](img/aws_cp.png){:height="100" width="100"}](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-04-23&ci=AWS00254133)
 [![](img/aws_saa.png){:height="100" width="100"}](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-11-01&ci=AWS00254133)
 [![](img/aws_da.png){:height="100" width="100"}](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-11-14&ci=AWS00254133)
 [![](img/cka.png){:height="100" width="100"}](https://www.youracclaim.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
@@ -83,6 +84,8 @@ __HTML/CSS/Javascript/PHP__
 
 
 ## Current Certifications
+
+__AWS Certified Cloud Practitioner__
 
 __AWS Certified Solutions Architect - Associate__
 
