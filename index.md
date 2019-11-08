@@ -18,7 +18,7 @@ Cloud Engineer, Automation Developer
 
 ## Currently
 
-Assisting clients with Docker, Kubernetes, Amazon Web Services,  Terraform, Ansible, Operations Orchestration (and CloudSlang), and Server Automation.
+Assisting clients with Kubernetes, Amazon Web Services,  Terraform, and Ansible.
 
 ## Education
 
@@ -38,7 +38,7 @@ __Oklahoma State University - Institute of Technology__, Okmulgee, Oklahoma
 `08/2016-Present`
 __Coda Global__, US - Remote
 
-_Cloud Engineer_ - Assist clients with their move to a Cloud-based, DevOps style approach for their applications.  This includes infstructure work as well as CI/CD Pipeline development and getting started with container technology.
+_Sr. Cloud Engineer_ - Assist clients with their move to a Cloud-based, DevOps style approach for their applications.  This includes infstructure work as well as CI/CD Pipeline development and getting started with container technology.
 
 `06/2015-07-2016`
 __Avnet__, Phoenix, AZ - Remote
@@ -72,15 +72,11 @@ _PC Support Technician, Work-study_ - Work-study support technician responsible 
 
 
 ## Tools and Languages
-__HP Operations Orchestration__ Spent 9 years authoring automation
-solutions using HPOO from version 7.51 to 10.80 (current).  I've also done training on best practices for authoring, maintaining, and running HPOO Flows.
+__Kubernetes__ Helped clients get started with installing and configuring Kubernetes clusters as well as moving applications into Kubernetes-based solutions
 
 __Ansible__ Tackled large infrastructure configuration projects utilizing Ansible.
 
-__Docker__ Helped multiple clients get started with applications in Docker-based solutions
-
-I have also worked with __Python__, __Kubernetes__, __Amazon Web Services__, __VMWare Suite__, __HP Server Automation__, __HP Cloud Service Automation__,
-__HTML/CSS/Javascript/PHP__
+I have also worked with __Terraform__, __Python__, __Docker__, __Amazon Web Services__, __VMWare Suite__
 
 
 ## Current Certifications
