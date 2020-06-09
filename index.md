@@ -5,10 +5,11 @@ title: Scott Eppler's CV
 # K. Scott Eppler
 Cloud Engineer, Automation Developer
 
-[![](img/aws_cp.png){:height="100" width="100"}](https://www.youracclaim.com/badges/4b05d6c0-2bc5-44e8-a865-2b1a44efc1f7/public_url)
+[![](img/cka.png){:height="100" width="100"}](https://www.youracclaim.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
+[![](img/tf.png){:height="100" width="100"}](https://www.youracclaim.com/badges/55293484-eda3-4c5c-87f7-c4d86e455b69/public_url)
 [![](img/aws_saa.png){:height="100" width="100"}](https://www.youracclaim.com/badges/d5c957f8-b9ec-4714-b9a6-ff32938eee87/public_url)
 [![](img/aws_da.png){:height="100" width="100"}](https://www.youracclaim.com/badges/efcef512-45ba-4d79-8f2f-136b97201c9a/public_url)
-[![](img/cka.png){:height="100" width="100"}](https://www.youracclaim.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
+[![](img/aws_cp.png){:height="100" width="100"}](https://www.youracclaim.com/badges/4b05d6c0-2bc5-44e8-a865-2b1a44efc1f7/public_url)
 
 <div id="webaddress">
 <a href="mailto:k.scott.eppler@gmail.com">k.scott.eppler@gmail.com</a> |
@@ -88,6 +89,8 @@ __AWS Certified Solutions Architect - Associate__
 __AWS Certified Developer - Associate__
 
 __CNCF Certified Kubernetes Administrator__
+
+__HashiCorp Certified: Terraform Associate__
 
 ## Past Certifications
 
