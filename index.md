@@ -6,6 +6,7 @@ title: Scott Eppler's CV
 Cloud Engineer, Automation Developer
 
 [![](img/cka.png){:height="100" width="100"}](https://www.youracclaim.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
+[![](img/ckad.png){:height="100" width="100"}](https://www.youracclaim.com/badges/9df4e58d-b065-4b0f-8702-155310058caa/public_url)
 [![](img/tf.png){:height="100" width="100"}](https://www.youracclaim.com/badges/55293484-eda3-4c5c-87f7-c4d86e455b69/public_url)
 [![](img/aws_saa.png){:height="100" width="100"}](https://www.youracclaim.com/badges/d5c957f8-b9ec-4714-b9a6-ff32938eee87/public_url)
 [![](img/aws_da.png){:height="100" width="100"}](https://www.youracclaim.com/badges/efcef512-45ba-4d79-8f2f-136b97201c9a/public_url)
@@ -89,6 +90,8 @@ __AWS Certified Solutions Architect - Associate__
 __AWS Certified Developer - Associate__
 
 __CNCF Certified Kubernetes Administrator__
+
+__CNCF Certified Kubernetes Application Developer__
 
 __HashiCorp Certified: Terraform Associate__
 
