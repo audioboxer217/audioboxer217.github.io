@@ -96,6 +96,8 @@ __CNCF Certified Kubernetes Application Developer__
 
 __HashiCorp Certified: Terraform Associate__
 
+__HashiCorp Certified: Vault Associate__
+
 ## Past Certifications
 
 __A+__
