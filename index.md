@@ -8,6 +8,7 @@ Cloud Engineer, Automation Developer
 [![](img/cka.png)](https://www.youracclaim.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
 [![](img/ckad.png)](https://www.youracclaim.com/badges/9df4e58d-b065-4b0f-8702-155310058caa/public_url)
 [![](img/tf.png)](https://www.youracclaim.com/badges/55293484-eda3-4c5c-87f7-c4d86e455b69/public_url)
+[![](img/tf-chip.png)](https://www.credly.com/badges/97fc3c3d-1518-4a2a-9489-946e7ef616ac/public_url)
 [![](img/vault.png)](https://www.youracclaim.com/badges/328c4608-7b47-4648-88e4-2deb3f6fa54a/public_url)
 [![](img/vault-chip.png)](https://www.youracclaim.com/badges/e1b75daf-9730-4857-a938-a34e38454c17/public_url)
 [![](img/aws_saa.png)](https://www.youracclaim.com/badges/d5c957f8-b9ec-4714-b9a6-ff32938eee87/public_url)
@@ -98,7 +99,11 @@ __CNCF Certified Kubernetes Application Developer__
 
 __HashiCorp Certified: Terraform Associate__
 
+__Terraform: Certified HashiCorp Implementation Partner (CHIP)__
+
 __HashiCorp Certified: Vault Associate__
+
+__Vault: Certified HashiCorp Implementation Partner (CHIP)__
 
 __VMware Certified Master Specialist - Cloud Native 2021__
 ## Past Certifications
