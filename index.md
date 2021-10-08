@@ -41,7 +41,12 @@ __Oklahoma State University - Institute of Technology__, Okmulgee, Oklahoma
 
 ## Experience
 
-`08/2016-Present`
+`08/2020-Present`
+__Presidio__, US - Remote
+
+_Sr. Cloud Engineer_ - Assist clients with their move to a Cloud-based, DevOps style approach for their applications.  This includes infstructure work as well as CI/CD Pipeline development and getting started with container technology.
+
+`08/2016-08/2020`
 __Coda Global__, US - Remote
 
 _Sr. Cloud Engineer_ - Assist clients with their move to a Cloud-based, DevOps style approach for their applications.  This includes infstructure work as well as CI/CD Pipeline development and getting started with container technology.
