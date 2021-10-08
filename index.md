@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Scott Eppler's CV
+title: Scott Eppler
 ---
 # K. Scott Eppler
 Cloud Engineer, Automation Developer
