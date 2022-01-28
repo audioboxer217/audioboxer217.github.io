@@ -3,7 +3,7 @@ layout: cv
 title: Scott Eppler
 ---
 # K. Scott Eppler
-Cloud Engineer, Automation Developer
+Engineering Manager
 
 [![](img/cka.png)](https://www.credly.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
 [![](img/ckad.png)](https://www.credly.com/badges/9df4e58d-b065-4b0f-8702-155310058caa/public_url)
@@ -24,7 +24,7 @@ Cloud Engineer, Automation Developer
 
 ## Currently
 
-Assisting clients with Kubernetes, Amazon Web Services,  Terraform, and Ansible.
+Mentoring my team and assisting clients with Kubernetes, Amazon Web Services, Terraform, and Ansible.
 
 ## Education
 
@@ -41,7 +41,12 @@ __Oklahoma State University - Institute of Technology__, Okmulgee, Oklahoma
 
 ## Experience
 
-`08/2020-Present`
+`01/2022-Present`
+__Presidio__, US - Remote
+
+_Engineering Manager_ - Responsible for managing and mentoring a team of DevOps and Cloud Engineers while continuing to participate in client engagements to assist with their move to a Cloud-based, DevOps style approach for their applications.
+
+`08/2020-01/2022`
 __Presidio__, US - Remote
 
 _Sr. Cloud Engineer_ - Assist clients with their move to a Cloud-based, DevOps style approach for their applications.  This includes infstructure work as well as CI/CD Pipeline development and getting started with container technology.
