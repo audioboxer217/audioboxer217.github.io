@@ -24,7 +24,10 @@ Engineering Manager
 
 ## Currently
 
-Mentoring my team and assisting clients with Kubernetes, Amazon Web Services, Terraform, and Ansible.
+Responsible for managing and mentoring a team of DevOps and Cloud Engineers while continuing to participate in client engagements to assist with their move to a Cloud-based, DevOps style approach for their applications. I currently work with Python, Ansible, Kubernetes, Terraform, and AWS most days.
+
+Specialties: Working with Clients to resolve issues and implement new
+automation solutions and move into the Cloud.
 
 ## Education
 
