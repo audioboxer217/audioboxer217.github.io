@@ -101,6 +101,7 @@ I have also worked with __Terraform__, __Python__, __Docker__, __Amazon Web Serv
 
 
 ## Current Certifications
+__GitHub Copilot__
 
 __AWS Certified Cloud Practitioner__
 
